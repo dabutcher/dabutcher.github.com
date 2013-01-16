@@ -1,0 +1,27 @@
+auto: true
+markdown: rdiscount
+pygments: true
+
+title: daButcher
+
+url: http://dabutcher.github.com
+
+permalink: /:year/:month/:day/:title/
+
+author:
+    name: Ernest Shaffer
+    email: dabutcher@vdosmedia.com
+    github: dabutcher
+    twitter: dabutcher2
+    gravatar: http://www.gravatar.com/avatar/ae9eb2407fc60d37ee4ea8308f84c1c9.png
+
+comments:
+    provider: disqus
+    disqus:
+        short_name: dabutcher
+        
+analytics:
+    provider: google 
+    google: 
+        tracking_id: 'UA-37646879-1'
+        domain: 'dabutcher.github.com'
